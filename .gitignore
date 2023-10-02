@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+Project/.idea
+project/venv
+Project/movies_dict.pkl
+Project/movies.pkl
+Project/similarity.pkl
